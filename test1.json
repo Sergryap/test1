@@ -1,21 +1,3 @@
 {
     "titlle": "Японский сад",
-    "imgls": [
-        "https://raw.githubusercontent.com/devmanorg/where-to-go-places/master/media/52aea6b37037f7aab7cc82301f77e314.jpg",
-        "https://raw.githubusercontent.com/devmanorg/where-to-go-places/master/media/3cce16840a41f2eafbe47ac72a61da12.jpg",
-        "https://raw.githubusercontent.com/devmanorg/where-to-go-places/master/media/6b3a9e0c004531ca87414eefe1a93509.jpg",
-        "https://raw.githubusercontent.com/devmanorg/where-to-go-places/master/media/618dc376701574400887d909b5c80f1e.jpg",
-        "https://raw.githubusercontent.com/devmanorg/where-to-go-places/master/media/761adc74dd5f348d3e7c34d12bee8d24.jpg",
-        "https://raw.githubusercontent.com/devmanorg/where-to-go-places/master/media/21d6835554ca82259ff201af7da32fe3.jpg",
-        "https://raw.githubusercontent.com/devmanorg/where-to-go-places/master/media/2095714fb0148a8be9140aadaad302be.jpg",
-        "https://raw.githubusercontent.com/devmanorg/where-to-go-places/master/media/34b72d0d1819947fe385d0a1986dc962.jpg",
-        "https://raw.githubusercontent.com/devmanorg/where-to-go-places/master/media/6c07645902cc90a2839b63896645021a.jpg",
-        "https://raw.githubusercontent.com/devmanorg/where-to-go-places/master/media/9b3bc5b446f1aaa8eeed2bb81a04d472.jpg",
-        "https://raw.githubusercontent.com/devmanorg/where-to-go-places/master/media/9c32261372fa061aad9b1f8827f87b7f.jpg",
-        "https://raw.githubusercontent.com/devmanorg/where-to-go-places/master/media/0cd397dc43f864e55dc1ef458ead9d69.jpg"
-    ],
-    "coordilnates": {
-        "lnlg": "37.58996699999999",
-        "lalt": "55.84419699999997"
-    }
 }
